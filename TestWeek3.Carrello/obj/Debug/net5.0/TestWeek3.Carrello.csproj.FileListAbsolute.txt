@@ -1,0 +1,16 @@
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\bin\Debug\net5.0\TestWeek3.Carrello.exe
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\bin\Debug\net5.0\TestWeek3.Carrello.deps.json
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\bin\Debug\net5.0\TestWeek3.Carrello.runtimeconfig.json
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\bin\Debug\net5.0\TestWeek3.Carrello.runtimeconfig.dev.json
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\bin\Debug\net5.0\TestWeek3.Carrello.dll
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\bin\Debug\net5.0\ref\TestWeek3.Carrello.dll
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\bin\Debug\net5.0\TestWeek3.Carrello.pdb
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.csprojAssemblyReference.cache
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.AssemblyInfoInputs.cache
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.AssemblyInfo.cs
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.csproj.CoreCompileInputs.cache
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.dll
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\ref\TestWeek3.Carrello.dll
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.pdb
+C:\Users\alessia.gualtieri\source\repos\TestWeek3.Carrello\TestWeek3.Carrello\obj\Debug\net5.0\TestWeek3.Carrello.genruntimeconfig.cache
