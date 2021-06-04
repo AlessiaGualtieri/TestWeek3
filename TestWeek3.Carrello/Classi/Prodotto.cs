@@ -48,7 +48,7 @@ namespace TestWeek3.Carrello.Classi
         {
             return $"Descrizione: {Descrizione}\n" +
                 $"Prezzo: {Prezzo} euro\n" +
-                $"Sconto percentuale: {PercentualeSconto}\n";
+                $"Sconto percentuale: {PercentualeSconto}";
         }
 
     }

@@ -30,13 +30,13 @@ namespace TestWeek3.Carrello
 
         public static void AccessoSito()
         {
-            Console.WriteLine("Benvenuto su SSSSLUNGA!\n" +
+            Console.WriteLine("Benvenuto su SSSSLUNGA!\n\n" +
                 "Esegui l'accesso al sito:");
 
             Console.Write("Username:\t");
-            //////////////////////////////////////////////
+            Console.ReadLine();
             Console.Write("Password:\t");
-            /////////////////////////////////////////
+            Console.ReadLine();
 
         }
 
@@ -101,8 +101,7 @@ namespace TestWeek3.Carrello
         {
             int scelta;
             Prodotto p;
-            Console.WriteLine("Inserire i dati del prodotto che si vuole inserire:");
-            Console.WriteLine("Che tipo di prodotto deve essere?\n" +
+            Console.WriteLine("\nChe tipo di prodotto deve essere?\n" +
                 "1 - Abbigliamento\n" +
                 "2 - Alimentare\n" +
                 "3 - Elettronica\n");
@@ -199,10 +198,10 @@ namespace TestWeek3.Carrello
                 i++;
             }
 
-            Console.Write("Di quale elemento vuoi modificare la quantità?");
+            Console.Write("Di quale elemento vuoi modificare la quantità?\t");
             scelta = LeggiInputUtenteInt(1, carrello.Ordine.Count);
 
-            Console.Write("Inserisci nuova quantità del prodotto: ");
+            Console.Write("Inserisci nuova quantità del prodotto:\t");
             nuovaQuantita = LeggiInputUtenteInt(1, 500);
 
             carrello.ModificaQuantitaProdotto(scelta - 1, nuovaQuantita);
@@ -226,8 +225,8 @@ namespace TestWeek3.Carrello
             }
 
             Console.WriteLine("\n\n\n" +
-                $"Prezzo totale: {prezzoTotale}\n" +
-                $"Prezzo con saldo: {prezzoTotaleScontato}\n");
+                $"Prezzo totale: {prezzoTotale} euro\n" +
+                $"Prezzo con saldo: {prezzoTotaleScontato} euro\n");
         }
 
         public static void CaricaProdottiSupermercato(out List<Abbigliamento> abiti, out List<Alimentare> cibo, out List<Elettronica> elettro)

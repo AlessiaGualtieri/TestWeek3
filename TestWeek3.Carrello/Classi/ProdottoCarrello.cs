@@ -12,7 +12,7 @@ namespace TestWeek3.Carrello.Classi
         public int Quantita { get; set; }
         public double PrezzoTotale { get { return Quantita * Prodotto.Prezzo; } }
 
-        public double PrezzoTotaleScontato { get { return PrezzoTotale - PrezzoTotale * Quantita * Prodotto.PercentualeSconto; } }
+        public double PrezzoTotaleScontato { get { return PrezzoTotale - PrezzoTotale * Prodotto.PercentualeSconto; } }
         
         public ProdottoCarrello(Prodotto prodotto, int quantita)
         {
@@ -39,8 +39,8 @@ namespace TestWeek3.Carrello.Classi
         {
             return $"Prodotto: {Prodotto.ToString()}\n" +
                 $"Quantità: {Quantita}\n" +
-                $"Prezzo totale: {PrezzoTotale}\n" +
-                $"Prezzo con saldo: {PrezzoTotaleScontato}\n";
+                $"Prezzo totale: {PrezzoTotale} euro\n" +
+                $"Prezzo con saldo: {PrezzoTotaleScontato} euro\n";
         }
 
     }
